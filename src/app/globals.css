@@ -1,0 +1,124 @@
+@font-face {
+  font-family: 'Font Awesome 6 Pro';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url('/fonts/fa-solid-900.woff2') format('woff2'),
+       url('/fonts/fa-solid-900.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Font Awesome 6 Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url('/fonts/fa-regular-400.woff2') format('woff2'),
+       url('/fonts/fa-regular-400.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Font Awesome 6 Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-display: block;
+  src: url('/fonts/fa-light-300.woff2') format('woff2'),
+       url('/fonts/fa-light-300.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Font Awesome 6 Pro';
+  font-style: normal;
+  font-weight: 100;
+  font-display: block;
+  src: url('/fonts/fa-thin-100.woff2') format('woff2'),
+       url('/fonts/fa-thin-100.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Font Awesome 6 Brands';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url('/fonts/fa-brands-400.woff2') format('woff2'),
+       url('/fonts/fa-brands-400.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Font Awesome 6 Duotone';
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url('/fonts/fa-duotone-900.woff2') format('woff2'),
+       url('/fonts/fa-duotone-900.ttf') format('truetype');
+}
+
+:root {
+  --body-font: var(--font-dm-sans), sans-serif;
+  --title-font: var(--font-archivo), var(--font-dm-sans), sans-serif;
+}
+
+/* Base resets & layout tweaks to match original styling */
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Floating widgets matching the original site */
+#feedback a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.floating_buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-end;
+}
+
+.floating_buttons a {
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.floating_buttons a:hover {
+  transform: scale(1.1);
+}
+
+.bounce {
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-10px);
+  }
+  60% {
+    transform: translateY(-5px);
+  }
+}
+
+/* Reposition footer decorative shapes to empty spaces to avoid overlapping content */
+.footer-wrapper .footer-shape-1 {
+  top: auto !important;
+  bottom: 8% !important;
+  left: 1.5% !important;
+}
+
+.footer-wrapper .footer-shape-2 {
+  right: 15% !important;
+  bottom: 5% !important;
+}
+
+@media (max-width: 1600px) {
+  .footer-wrapper .footer-shape-1 {
+    top: auto !important;
+    bottom: 8% !important;
+    left: 0.5% !important;
+  }
+}
