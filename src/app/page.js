@@ -27,56 +27,56 @@ export default function Home() {
     {
       title: "House Shifting",
       path: "/house.html",
-      image: "/img/blog-1.jpg",
+      image: "/img/blog-1.webp",
       desc: "The safe and proper packaging of goods is of paramount importance to us. We, Agarwal On Time Cargo Packers & Movers..",
       discount: "Best Discount"
     },
     {
       title: "Land Transport",
       path: "/transport.html",
-      image: "/img/land-transport.jpg",
+      image: "/img/land-transport.webp",
       desc: "We also provide basic ground transportation for goods all over India, covering great distances and overcoming..",
       discount: "Best Discount"
     },
     {
       title: "Packing and Moving",
       path: "/packing.html",
-      image: "/img/packing.jpg",
+      image: "/img/packing.webp",
       desc: "Packing and Moving is really a difficult task because it's a time when people get very puzzle. In earlier times..",
       discount: "Best Discount"
     },
     {
       title: "Domestic Relocation",
       path: "/domestic.html",
-      image: "/img/domestic.jpg",
+      image: "/img/domestic.webp",
       desc: "Agarwal On Time Cargo Packers & Movers has devised convenient and brilliant ways to move its customers' households..",
       discount: "Best Discount"
     },
     {
       title: "Car Transportation",
       path: "/car.html",
-      image: "/img/car-transport.jpg",
+      image: "/img/car-transport.webp",
       desc: "We Offer reliable Car Transportation to individuals as well as corporate customers to ensure swift, safe..",
       discount: "Best Discount"
     },
     {
       title: "Warehousing",
       path: "/warehousing.html",
-      image: "/img/warehouse.jpg",
+      image: "/img/warehouse.webp",
       desc: "We are a renowned storage service provider, which bring the most dependable godown services.",
       discount: "Best Discount"
     },
     {
       title: "Office Moving",
       path: "/office.html",
-      image: "/img/office-shifting.jpg",
+      image: "/img/office-shifting.webp",
       desc: "logo focuses on delivering excellent shift encounter for businesses and companies. We are fully dedicate..",
       discount: "Best Discount"
     },
     {
       title: "Air Cargo",
       path: "/air.html",
-      image: "/img/air-cargo.jpg",
+      image: "/img/air-cargo.webp",
       desc: "Agarwal On Time Cargo Packers & Movers offers to our clients ,a cost effective, secure, timely and efficient solution..",
       discount: "Best Discount"
     }
@@ -145,7 +145,7 @@ export default function Home() {
     "@type": "Organization",
     "name": "Agarwal On Time Cargo Packers & Movers",
     "url": "https://www.agarwalontimecargopackers.com",
-    "logo": "https://www.agarwalontimecargopackers.com/assets/img/logo.png",
+    "logo": "https://www.agarwalontimecargopackers.com/assets/img/logo.webp",
     "sameAs": [],
     "contactPoint": {
       "@type": "ContactPoint",
@@ -172,7 +172,7 @@ export default function Home() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "name": "Agarwal On Time Cargo Packers & Movers",
-    "image": "https://www.agarwalontimecargopackers.com/assets/img/logo.png",
+    "image": "https://www.agarwalontimecargopackers.com/assets/img/logo.webp",
     "@id": "https://www.agarwalontimecargopackers.com/#localbusiness",
     "url": "https://www.agarwalontimecargopackers.com",
     "telephone": "+91 8095279595",
@@ -258,7 +258,7 @@ export default function Home() {
                     <img src="/assets/img/about/about-2-right.jpg" alt="Agarwal On Time Cargo Packers and Movers Loading Operations" width="270" height="380" loading="lazy" />
                   </div>
                   <div className="img2">
-                    <img className="tilt-active" src="/assets/img/about/about-2-main.jpg" alt="Agarwal On Time Cargo Packers and Movers Shifting Team" width="400" height="500" loading="lazy" />
+                    <img className="tilt-active" src="/assets/img/about/about-2-main.webp" alt="Agarwal On Time Cargo Packers and Movers Shifting Team" width="400" height="500" loading="lazy" />
                   </div>
                   <div className="year-counter">
                     <div className="rotate-text">
@@ -324,7 +324,7 @@ export default function Home() {
               </div>
             </div>
             <div className="right-shape">
-              <img src="/assets/img/icon/counter-shape-2-1.png" alt="" width="48" height="48" loading="lazy" />
+              <img src="/assets/img/icon/counter-shape-2-1.webp" alt="" width="48" height="48" loading="lazy" />
             </div>
             <div className="counter-card">
               <div className="media-body">
@@ -335,7 +335,7 @@ export default function Home() {
               </div>
             </div>
             <div className="right-shape">
-              <img src="/assets/img/icon/counter-shape-2-1.png" alt="" width="48" height="48" loading="lazy" />
+              <img src="/assets/img/icon/counter-shape-2-1.webp" alt="" width="48" height="48" loading="lazy" />
             </div>
             <div className="counter-card">
               <div className="media-body">
@@ -346,7 +346,7 @@ export default function Home() {
               </div>
             </div>
             <div className="right-shape">
-              <img src="/assets/img/icon/counter-shape-2-1.png" alt="" width="48" height="48" loading="lazy" />
+              <img src="/assets/img/icon/counter-shape-2-1.webp" alt="" width="48" height="48" loading="lazy" />
             </div>
             <div className="counter-card">
               <div className="media-body">
@@ -357,14 +357,14 @@ export default function Home() {
               </div>
             </div>
             <div className="right-shape">
-              <img src="/assets/img/icon/counter-shape-2-1.png" alt="" width="48" height="48" loading="lazy" />
+              <img src="/assets/img/icon/counter-shape-2-1.webp" alt="" width="48" height="48" loading="lazy" />
             </div>
           </div>
         </div>
       </div>
 
       {/* Services Section */}
-      <section className="th-service-1 overflow-hidden space" id="service-sec" style={{ backgroundImage: "url('/assets/img/bg/service-bg-1-1.png')" }}>
+      <section className="th-service-1 overflow-hidden space" id="service-sec" style={{ backgroundImage: "url('/assets/img/bg/service-bg-1-1.webp')" }}>
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-xxl-6 col-xl-7 col-lg-7 col-md-8">
@@ -481,22 +481,22 @@ export default function Home() {
                 <div className="col-12">
                   <div className="brand-logos-row" style={{ display: "flex", justifyContent: "space-between", flexWrap: "wrap", gap: "20px", alignItems: "center" }}>
                     <div className="brand-box">
-                      <img src="/img/brand-logo/clients1.jpg" alt="Associated Packers Movers Client Brand" width="150" height="80" loading="lazy" />
+                      <img src="/img/brand-logo/clients1.webp" alt="Associated Packers Movers Client Brand" width="150" height="80" loading="lazy" />
                     </div>
                     <div className="brand-box">
-                      <img src="/img/brand-logo/clients2.jpg" alt="Associated Packers Movers Client Brand" width="150" height="80" loading="lazy" />
+                      <img src="/img/brand-logo/clients2.webp" alt="Associated Packers Movers Client Brand" width="150" height="80" loading="lazy" />
                     </div>
                     <div className="brand-box">
-                      <img src="/img/brand-logo/clients3.jpg" alt="Associated Packers Movers Client Brand" width="150" height="80" loading="lazy" />
+                      <img src="/img/brand-logo/clients3.webp" alt="Associated Packers Movers Client Brand" width="150" height="80" loading="lazy" />
                     </div>
                     <div className="brand-box">
-                      <img src="/img/brand-logo/clients4.jpg" alt="Associated Packers Movers Client Brand" width="150" height="80" loading="lazy" />
+                      <img src="/img/brand-logo/clients4.webp" alt="Associated Packers Movers Client Brand" width="150" height="80" loading="lazy" />
                     </div>
                     <div className="brand-box">
-                      <img src="/img/brand-logo/clients5.jpg" alt="Associated Packers Movers Client Brand" width="150" height="80" loading="lazy" />
+                      <img src="/img/brand-logo/clients5.webp" alt="Associated Packers Movers Client Brand" width="150" height="80" loading="lazy" />
                     </div>
                     <div className="brand-box">
-                      <img src="/img/brand-logo/c7.jpg" alt="Associated Packers Movers Client Brand" width="150" height="80" loading="lazy" />
+                      <img src="/img/brand-logo/c7.webp" alt="Associated Packers Movers Client Brand" width="150" height="80" loading="lazy" />
                     </div>
                   </div>
                 </div>
@@ -687,7 +687,7 @@ export default function Home() {
             <div className="col-xl-5 col-lg-12">
               <div className="testi-img-box">
                 <div className="testi-1-main-img">
-                  <img src="/img/ab4.png" alt="Happy Customer Reviews Overview" width="500" height="400" loading="lazy" />
+                  <img src="/img/ab4.webp" alt="Happy Customer Reviews Overview" width="500" height="400" loading="lazy" />
                 </div>
                 <div className="testi-1-shape-1"></div>
                 <div className="testi-1-shape-2"></div>

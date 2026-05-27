@@ -21,7 +21,7 @@ export default function HouseShifting() {
     "provider": {
       "@type": "LocalBusiness",
       "name": "Agarwal On Time Cargo Packers & Movers",
-      "image": "https://www.agarwalontimecargopackers.com/assets/img/logo.png",
+      "image": "https://www.agarwalontimecargopackers.com/assets/img/logo.webp",
       "telephone": "+91 8095279595",
       "email": "agarwalpackersmoversa@gmail.com",
       "url": "https://www.agarwalontimecargopackers.com"
@@ -60,7 +60,7 @@ export default function HouseShifting() {
                       <div className="page-img">
                         <img
                           className="w-100"
-                          src="/img/blog-1.jpg"
+                          src="/img/blog-1.webp"
                           alt="House Shifting Service"
                           width="350"
                           height="230"

@@ -87,7 +87,7 @@ export default async function LocationPage({ params }) {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "name": `Agarwal On Time Cargo Packers & Movers - ${displayName}`,
-    "image": "https://www.agarwalontimecargopackers.com/assets/img/logo.png",
+    "image": "https://www.agarwalontimecargopackers.com/assets/img/logo.webp",
     "telephone": "+91 8095279595",
     "email": "agarwalpackersmoversa@gmail.com",
     "address": {
@@ -154,7 +154,7 @@ export default async function LocationPage({ params }) {
                   <div className="row mt-30 gx-40">
                     <div className="col-md-7">
                       <div className="page-img">
-                        <img className="w-100" src="/img/packing.jpg" alt="Packing operations" style={{ borderRadius: "15px" }} />
+                        <img className="w-100" src="/img/packing.webp" alt="Packing operations" style={{ borderRadius: "15px" }} />
                       </div>
                     </div>
                     <div className="col-md-5">

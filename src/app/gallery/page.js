@@ -13,15 +13,15 @@ export const metadata = {
 
 export default function Gallery() {
   const images = [
-    { src: "/img/packing.jpg", alt: "Packing Services", title: "Packing Operation" },
-    { src: "/img/blog-1.jpg", alt: "House Shifting", title: "House Shifting" },
-    { src: "/img/land-transport.jpg", alt: "Land Transport", title: "Road Logistics" },
-    { src: "/img/domestic.jpg", alt: "Domestic Relocation", title: "Domestic Shifting" },
-    { src: "/img/car-transport.jpg", alt: "Car Transportation", title: "Vehicle Transport" },
-    { src: "/img/warehouse.jpg", alt: "Warehousing Services", title: "Warehouse Storage" },
-    { src: "/img/office-shifting.jpg", alt: "Office Moving Services", title: "Office Relocation" },
-    { src: "/img/air-cargo.jpg", alt: "Air Cargo", title: "Air Shipment" },
-    { src: "/assets/img/about/about-2-main.jpg", alt: "Moving Experts", title: "Our Shifting Team" },
+    { src: "/img/packing.webp", alt: "Packing Services", title: "Packing Operation" },
+    { src: "/img/blog-1.webp", alt: "House Shifting", title: "House Shifting" },
+    { src: "/img/land-transport.webp", alt: "Land Transport", title: "Road Logistics" },
+    { src: "/img/domestic.webp", alt: "Domestic Relocation", title: "Domestic Shifting" },
+    { src: "/img/car-transport.webp", alt: "Car Transportation", title: "Vehicle Transport" },
+    { src: "/img/warehouse.webp", alt: "Warehousing Services", title: "Warehouse Storage" },
+    { src: "/img/office-shifting.webp", alt: "Office Moving Services", title: "Office Relocation" },
+    { src: "/img/air-cargo.webp", alt: "Air Cargo", title: "Air Shipment" },
+    { src: "/assets/img/about/about-2-main.webp", alt: "Moving Experts", title: "Our Shifting Team" },
   ];
 
   const schemaJson = {

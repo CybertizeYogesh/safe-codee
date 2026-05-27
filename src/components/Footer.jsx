@@ -32,11 +32,11 @@ export default function Footer() {
     <>
       <footer
         className="footer-wrapper footer-layout1 background-image shape-mockup-wrap"
-        style={{ backgroundImage: "url('/assets/img/bg/footer_bg_2.jpg')" }}
+        style={{ backgroundImage: "url('/assets/img/bg/footer_bg_2.webp')" }}
       >
         <div className="shape-mockup footer-shape-1 jump-reverse d-none d-xxl-block">
           <img
-            src="/assets/img/icon/footer-shape-1.png"
+            src="/assets/img/icon/footer-shape-1.webp"
             alt=""
             width="164"
             height="162"
@@ -46,7 +46,7 @@ export default function Footer() {
         </div>
         <div className="shape-mockup footer-shape-2 jump-reverse">
           <img
-            src="/assets/img/icon/footer-shape-2.png"
+            src="/assets/img/icon/footer-shape-2.webp"
             alt=""
             width="128"
             height="128"
@@ -56,7 +56,7 @@ export default function Footer() {
         </div>
         <div
           className="shape-mockup footer-top-shape background-image"
-          style={{ backgroundImage: "url('/assets/img/shape/footer-1-top-shape.png')" }}
+          style={{ backgroundImage: "url('/assets/img/shape/footer-1-top-shape.webp')" }}
         ></div>
 
         <div className="widget-area">
@@ -68,7 +68,7 @@ export default function Footer() {
                     <div className="about-logo">
                       <Link href="/">
                         <img
-                          src="/assets/img/logo.png"
+                          src="/assets/img/logo.webp"
                           alt="Agarwal On Time Cargo Packers and Movers Logo"
                           width="160"
                           height="48"
@@ -245,12 +245,12 @@ export default function Footer() {
       <div className="floating_buttons">
         <div className="call_btn bounce">
           <a href="tel:8095279595" aria-label="Call Agarwal On Time Cargo Packers and Movers">
-            <img src="/img/floating-call.png" alt="Floating Call" width="50" height="50" className="img-fluid" />
+            <img src="/img/floating-call.webp" alt="Floating Call" width="50" height="50" className="img-fluid" />
           </a>
         </div>
         <div className="whatsapp_btn bounce">
           <a href="https://wa.me/8095279595" target="_blank" rel="noopener noreferrer" aria-label="Chat with Agarwal On Time Cargo Packers and Movers on WhatsApp">
-            <img src="/img/whatsapp.png" alt="WhatsApp" width="50" height="50" className="img-fluid" />
+            <img src="/img/whatsapp.webp" alt="WhatsApp" width="50" height="50" className="img-fluid" />
           </a>
         </div>
       </div>

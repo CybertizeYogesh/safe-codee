@@ -6,7 +6,7 @@ https.get('https://www.indianbestpackersmovers.com/about.html', (res) => {
   res.on('end', () => {
     const lines = html.split('\n');
     lines.forEach((line, idx) => {
-      if (line.includes('logo.png')) {
+      if (line.includes('logo.webp')) {
         console.log(`${idx + 1}: ${line.trim()}`);
       }
     });

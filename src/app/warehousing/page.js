@@ -21,7 +21,7 @@ export default function Warehousing() {
     "provider": {
       "@type": "LocalBusiness",
       "name": "Agarwal On Time Cargo Packers & Movers",
-      "image": "https://www.agarwalontimecargopackers.com/assets/img/logo.png",
+      "image": "https://www.agarwalontimecargopackers.com/assets/img/logo.webp",
       "telephone": "+91 8095279595",
       "email": "agarwalpackersmoversa@gmail.com",
       "url": "https://www.agarwalontimecargopackers.com"
@@ -60,7 +60,7 @@ export default function Warehousing() {
                       <div className="page-img">
                         <img
                           className="w-100"
-                          src="/img/warehouse.jpg"
+                          src="/img/warehouse.webp"
                           alt="Warehousing Services"
                           width="350"
                           height="230"

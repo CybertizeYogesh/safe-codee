@@ -1,0 +1,508 @@
+[2026-05-27T07:37:25.732Z] [INFO] ═══════════════════════════════════════════════════════
+[2026-05-27T07:37:25.733Z] [INFO] IMAGE OPTIMIZATION SCRIPT
+[2026-05-27T07:37:25.734Z] [INFO] ═══════════════════════════════════════════════════════
+[2026-05-27T07:37:25.734Z] [INFO] Project Root: C:\Users\Yogesh Poonia\Desktop\temp2
+[2026-05-27T07:37:25.734Z] [INFO] Max WebP Size: 120 KB
+[2026-05-27T07:37:25.734Z] [INFO] Dry Run: NO
+[2026-05-27T07:37:25.734Z] [INFO] 
+[2026-05-27T07:37:25.734Z] [INFO] Step 1: Discovering images...
+[2026-05-27T07:37:25.749Z] [SUCCESS] Found 68 image(s)
+[2026-05-27T07:37:25.749Z] [INFO] 
+[2026-05-27T07:37:25.750Z] [INFO] Step 2: Converting images to WebP...
+[2026-05-27T07:37:25.750Z] [INFO] Processing: public\assets\img\about\about-2-main.jpg
+[2026-05-27T07:37:25.753Z] [INFO]   Original: 21.94 KB (432x468 , webp)
+[2026-05-27T07:37:25.780Z] [INFO]   Converted with quality 80, dimensions 432x468: 17.50 KB
+[2026-05-27T07:37:25.781Z] [SUCCESS]   ✓ Created: about-2-main.webp
+[2026-05-27T07:37:25.781Z] [INFO] Processing: public\assets\img\about\about-2-right.jpg
+[2026-05-27T07:37:25.783Z] [INFO]   Original: 11.05 KB (328x320 , heif)
+[2026-05-27T07:37:25.789Z] [ERROR]   ✗ Failed: input buffer is not a HEIC image
+[2026-05-27T07:37:25.789Z] [INFO] Processing: public\assets\img\bg\breadcrumb-bg.jpg
+[2026-05-27T07:37:25.790Z] [INFO]   Original: 153.19 KB (2000x967 , jpeg)
+[2026-05-27T07:37:25.912Z] [INFO]   Converted with quality 80, dimensions 2000x967: 46.32 KB
+[2026-05-27T07:37:25.913Z] [SUCCESS]   ✓ Created: breadcrumb-bg.webp
+[2026-05-27T07:37:25.913Z] [INFO] Processing: public\assets\img\bg\breadcrumb-bottom.png
+[2026-05-27T07:37:25.914Z] [INFO]   Original: 2.14 KB (1920x69 , png)
+[2026-05-27T07:37:25.936Z] [INFO]   Converted with quality 80, dimensions 1920x69: 3.04 KB
+[2026-05-27T07:37:25.937Z] [SUCCESS]   ✓ Created: breadcrumb-bottom.webp
+[2026-05-27T07:37:25.937Z] [INFO] Processing: public\assets\img\bg\contact_form_bg.jpg
+[2026-05-27T07:37:25.938Z] [INFO]   Original: 284.17 KB (1948x1306 , jpeg)
+[2026-05-27T07:37:26.096Z] [INFO]   Converted with quality 80, dimensions 1948x1306: 61.69 KB
+[2026-05-27T07:37:26.096Z] [SUCCESS]   ✓ Created: contact_form_bg.webp
+[2026-05-27T07:37:26.096Z] [INFO] Processing: public\assets\img\bg\footer_bg_2.jpg
+[2026-05-27T07:37:26.097Z] [INFO]   Original: 7.45 KB (1920x763 , jpeg)
+[2026-05-27T07:37:26.160Z] [INFO]   Converted with quality 80, dimensions 1920x763: 4.85 KB
+[2026-05-27T07:37:26.161Z] [SUCCESS]   ✓ Created: footer_bg_2.webp
+[2026-05-27T07:37:26.161Z] [INFO] Processing: public\assets\img\bg\service-bg-1-1.png
+[2026-05-27T07:37:26.162Z] [INFO]   Original: 22.74 KB (1920x984 , png)
+[2026-05-27T07:37:26.247Z] [INFO]   Converted with quality 80, dimensions 1920x984: 7.01 KB
+[2026-05-27T07:37:26.248Z] [SUCCESS]   ✓ Created: service-bg-1-1.webp
+[2026-05-27T07:37:26.248Z] [INFO] Processing: public\assets\img\favicon.png
+[2026-05-27T07:37:26.249Z] [INFO]   Original: 24.39 KB (350x53 , png)
+[2026-05-27T07:37:26.259Z] [INFO]   Converted with quality 80, dimensions 350x53: 5.03 KB
+[2026-05-27T07:37:26.259Z] [SUCCESS]   ✓ Created: favicon.webp
+[2026-05-27T07:37:26.259Z] [INFO] Processing: public\assets\img\hero\hero2-overlay.png
+[2026-05-27T07:37:26.260Z] [INFO]   Original: 373.00 KB (1920x978 , png)
+[2026-05-27T07:37:45.827Z] [INFO]   Converted with quality 45, dimensions 1162x591: 119.85 KB
+[2026-05-27T07:37:45.828Z] [SUCCESS]   ✓ Created: hero2-overlay.webp
+[2026-05-27T07:37:45.828Z] [INFO] Processing: public\assets\img\hero\hero_bg_2_1.jpg
+[2026-05-27T07:37:45.830Z] [INFO]   Original: 634.33 KB (2592x1936 , jpeg)
+[2026-05-27T07:37:46.395Z] [INFO]   Converted with quality 75, dimensions 2592x1936: 97.91 KB
+[2026-05-27T07:37:46.396Z] [SUCCESS]   ✓ Created: hero_bg_2_1.webp
+[2026-05-27T07:37:46.396Z] [INFO] Processing: public\assets\img\hero\hero_bg_2_2.jpg
+[2026-05-27T07:37:46.397Z] [INFO]   Original: 1793.43 KB (3000x2000 , jpeg)
+[2026-05-27T07:38:13.150Z] [INFO]   Converted with quality 30, dimensions 1671x1113: 110.37 KB
+[2026-05-27T07:38:13.151Z] [SUCCESS]   ✓ Created: hero_bg_2_2.webp
+[2026-05-27T07:38:13.151Z] [INFO] Processing: public\assets\img\hero\hero_bg_2_3.jpg
+[2026-05-27T07:38:13.152Z] [INFO]   Original: 915.67 KB (3000x1687 , jpeg)
+[2026-05-27T07:38:15.991Z] [INFO]   Converted with quality 40, dimensions 3000x1687: 114.74 KB
+[2026-05-27T07:38:15.992Z] [SUCCESS]   ✓ Created: hero_bg_2_3.webp
+[2026-05-27T07:38:15.992Z] [INFO] Processing: public\assets\img\icon\breadcrumb-left.png
+[2026-05-27T07:38:15.993Z] [INFO]   Original: 0.92 KB (91x102 , png)
+[2026-05-27T07:38:15.998Z] [INFO]   Converted with quality 80, dimensions 91x102: 1.51 KB
+[2026-05-27T07:38:15.998Z] [SUCCESS]   ✓ Created: breadcrumb-left.webp
+[2026-05-27T07:38:15.998Z] [INFO] Processing: public\assets\img\icon\breadcrumb-right.png
+[2026-05-27T07:38:15.999Z] [INFO]   Original: 0.62 KB (65x72 , png)
+[2026-05-27T07:38:16.003Z] [INFO]   Converted with quality 80, dimensions 65x72: 0.94 KB
+[2026-05-27T07:38:16.003Z] [SUCCESS]   ✓ Created: breadcrumb-right.webp
+[2026-05-27T07:38:16.003Z] [INFO] Processing: public\assets\img\icon\counter-shape-2-1.png
+[2026-05-27T07:38:16.004Z] [INFO]   Original: 1.02 KB (36x64 , png)
+[2026-05-27T07:38:16.007Z] [INFO]   Converted with quality 80, dimensions 36x64: 1.26 KB
+[2026-05-27T07:38:16.007Z] [SUCCESS]   ✓ Created: counter-shape-2-1.webp
+[2026-05-27T07:38:16.007Z] [INFO] Processing: public\assets\img\icon\footer-shape-1.png
+[2026-05-27T07:38:16.008Z] [INFO]   Original: 0.87 KB (91x102 , png)
+[2026-05-27T07:38:16.012Z] [INFO]   Converted with quality 80, dimensions 91x102: 1.11 KB
+[2026-05-27T07:38:16.012Z] [SUCCESS]   ✓ Created: footer-shape-1.webp
+[2026-05-27T07:38:16.012Z] [INFO] Processing: public\assets\img\icon\footer-shape-2.png
+[2026-05-27T07:38:16.013Z] [INFO]   Original: 0.59 KB (65x72 , png)
+[2026-05-27T07:38:16.017Z] [INFO]   Converted with quality 80, dimensions 65x72: 0.68 KB
+[2026-05-27T07:38:16.017Z] [SUCCESS]   ✓ Created: footer-shape-2.webp
+[2026-05-27T07:38:16.017Z] [INFO] Processing: public\assets\img\logo.png
+[2026-05-27T07:38:16.018Z] [INFO]   Original: 332.40 KB (1024x306 , png)
+[2026-05-27T07:38:16.047Z] [INFO]   Converted with quality 80, dimensions 1024x306: 26.42 KB
+[2026-05-27T07:38:16.047Z] [SUCCESS]   ✓ Created: logo.webp
+[2026-05-27T07:38:16.048Z] [INFO] Processing: public\assets\img\shape\footer-1-top-shape.png
+[2026-05-27T07:38:16.048Z] [INFO]   Original: 16.23 KB (1920x116 , png)
+[2026-05-27T07:38:16.070Z] [INFO]   Converted with quality 80, dimensions 1920x116: 4.26 KB
+[2026-05-27T07:38:16.070Z] [SUCCESS]   ✓ Created: footer-1-top-shape.webp
+[2026-05-27T07:38:16.071Z] [INFO] Processing: public\favicon\favicon.png
+[2026-05-27T07:38:16.072Z] [INFO]   Original: 24.39 KB (350x53 , png)
+[2026-05-27T07:38:16.080Z] [INFO]   Converted with quality 80, dimensions 350x53: 5.03 KB
+[2026-05-27T07:38:16.081Z] [SUCCESS]   ✓ Created: favicon.webp
+[2026-05-27T07:38:16.081Z] [INFO] Processing: public\images\about\ab4.png
+[2026-05-27T07:38:16.082Z] [INFO]   Original: 270.44 KB (390x600 , png)
+[2026-05-27T07:38:16.112Z] [INFO]   Converted with quality 80, dimensions 390x600: 18.80 KB
+[2026-05-27T07:38:16.113Z] [SUCCESS]   ✓ Created: ab4.webp
+[2026-05-27T07:38:16.113Z] [INFO] Processing: public\images\about\about-2-main.jpg
+[2026-05-27T07:38:16.114Z] [INFO]   Original: 21.94 KB (432x468 , webp)
+[2026-05-27T07:38:16.137Z] [INFO]   Converted with quality 80, dimensions 432x468: 17.50 KB
+[2026-05-27T07:38:16.137Z] [SUCCESS]   ✓ Created: about-2-main.webp
+[2026-05-27T07:38:16.137Z] [INFO] Processing: public\images\about\about-2-right.jpg
+[2026-05-27T07:38:16.139Z] [INFO]   Original: 11.05 KB (328x320 , heif)
+[2026-05-27T07:38:16.143Z] [ERROR]   ✗ Failed: input buffer is not a HEIC image
+[2026-05-27T07:38:16.143Z] [INFO] Processing: public\images\backgrounds\service-bg-1-1.png
+[2026-05-27T07:38:16.144Z] [INFO]   Original: 22.74 KB (1920x984 , png)
+[2026-05-27T07:38:16.227Z] [INFO]   Converted with quality 80, dimensions 1920x984: 7.01 KB
+[2026-05-27T07:38:16.228Z] [SUCCESS]   ✓ Created: service-bg-1-1.webp
+[2026-05-27T07:38:16.228Z] [INFO] Processing: public\images\banners\hero2-overlay.png
+[2026-05-27T07:38:16.229Z] [INFO]   Original: 373.00 KB (1920x978 , png)
+[2026-05-27T07:38:35.205Z] [INFO]   Converted with quality 45, dimensions 1162x591: 119.85 KB
+[2026-05-27T07:38:35.205Z] [SUCCESS]   ✓ Created: hero2-overlay.webp
+[2026-05-27T07:38:35.206Z] [INFO] Processing: public\images\banners\hero_bg_2_1.jpg
+[2026-05-27T07:38:35.207Z] [INFO]   Original: 634.33 KB (2592x1936 , jpeg)
+[2026-05-27T07:38:35.772Z] [INFO]   Converted with quality 75, dimensions 2592x1936: 97.91 KB
+[2026-05-27T07:38:35.773Z] [SUCCESS]   ✓ Created: hero_bg_2_1.webp
+[2026-05-27T07:38:35.773Z] [INFO] Processing: public\images\banners\hero_bg_2_2.jpg
+[2026-05-27T07:38:35.774Z] [INFO]   Original: 1793.43 KB (3000x2000 , jpeg)
+[2026-05-27T07:39:05.180Z] [INFO]   Converted with quality 30, dimensions 1671x1113: 110.37 KB
+[2026-05-27T07:39:05.181Z] [SUCCESS]   ✓ Created: hero_bg_2_2.webp
+[2026-05-27T07:39:05.181Z] [INFO] Processing: public\images\banners\hero_bg_2_3.jpg
+[2026-05-27T07:39:05.182Z] [INFO]   Original: 915.67 KB (3000x1687 , jpeg)
+[2026-05-27T07:39:08.411Z] [INFO]   Converted with quality 40, dimensions 3000x1687: 114.74 KB
+[2026-05-27T07:39:08.412Z] [SUCCESS]   ✓ Created: hero_bg_2_3.webp
+[2026-05-27T07:39:08.412Z] [INFO] Processing: public\images\blog\blog-1.jpg
+[2026-05-27T07:39:08.413Z] [INFO]   Original: 61.41 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.436Z] [INFO]   Converted with quality 80, dimensions 400x400: 18.80 KB
+[2026-05-27T07:39:08.437Z] [SUCCESS]   ✓ Created: blog-1.webp
+[2026-05-27T07:39:08.437Z] [INFO] Processing: public\images\common\floating-call.png
+[2026-05-27T07:39:08.438Z] [INFO]   Original: 4.18 KB (64x64 , png)
+[2026-05-27T07:39:08.442Z] [INFO]   Converted with quality 80, dimensions 64x64: 1.29 KB
+[2026-05-27T07:39:08.442Z] [SUCCESS]   ✓ Created: floating-call.webp
+[2026-05-27T07:39:08.442Z] [INFO] Processing: public\images\common\whatsapp.png
+[2026-05-27T07:39:08.444Z] [INFO]   Original: 4.93 KB (64x64 , png)
+[2026-05-27T07:39:08.447Z] [INFO]   Converted with quality 80, dimensions 64x64: 1.35 KB
+[2026-05-27T07:39:08.448Z] [SUCCESS]   ✓ Created: whatsapp.webp
+[2026-05-27T07:39:08.448Z] [INFO] Processing: public\images\icons\counter-shape-2-1.png
+[2026-05-27T07:39:08.449Z] [INFO]   Original: 1.02 KB (36x64 , png)
+[2026-05-27T07:39:08.453Z] [INFO]   Converted with quality 80, dimensions 36x64: 1.26 KB
+[2026-05-27T07:39:08.454Z] [SUCCESS]   ✓ Created: counter-shape-2-1.webp
+[2026-05-27T07:39:08.454Z] [INFO] Processing: public\images\icons\footer-shape-1.png
+[2026-05-27T07:39:08.455Z] [INFO]   Original: 0.87 KB (91x102 , png)
+[2026-05-27T07:39:08.460Z] [INFO]   Converted with quality 80, dimensions 91x102: 1.11 KB
+[2026-05-27T07:39:08.461Z] [SUCCESS]   ✓ Created: footer-shape-1.webp
+[2026-05-27T07:39:08.461Z] [INFO] Processing: public\images\icons\footer-shape-2.png
+[2026-05-27T07:39:08.462Z] [INFO]   Original: 0.59 KB (65x72 , png)
+[2026-05-27T07:39:08.466Z] [INFO]   Converted with quality 80, dimensions 65x72: 0.68 KB
+[2026-05-27T07:39:08.467Z] [SUCCESS]   ✓ Created: footer-shape-2.webp
+[2026-05-27T07:39:08.467Z] [INFO] Processing: public\images\logos\c7.jpg
+[2026-05-27T07:39:08.468Z] [INFO]   Original: 10.04 KB (140x84 , png)
+[2026-05-27T07:39:08.472Z] [INFO]   Converted with quality 80, dimensions 140x84: 1.27 KB
+[2026-05-27T07:39:08.472Z] [SUCCESS]   ✓ Created: c7.webp
+[2026-05-27T07:39:08.472Z] [INFO] Processing: public\images\logos\clients1.jpg
+[2026-05-27T07:39:08.474Z] [INFO]   Original: 6.28 KB (142x84 , jpeg)
+[2026-05-27T07:39:08.478Z] [INFO]   Converted with quality 80, dimensions 142x84: 2.00 KB
+[2026-05-27T07:39:08.479Z] [SUCCESS]   ✓ Created: clients1.webp
+[2026-05-27T07:39:08.479Z] [INFO] Processing: public\images\logos\clients2.jpg
+[2026-05-27T07:39:08.480Z] [INFO]   Original: 6.46 KB (140x84 , jpeg)
+[2026-05-27T07:39:08.484Z] [INFO]   Converted with quality 80, dimensions 140x84: 1.42 KB
+[2026-05-27T07:39:08.485Z] [SUCCESS]   ✓ Created: clients2.webp
+[2026-05-27T07:39:08.485Z] [INFO] Processing: public\images\logos\clients3.jpg
+[2026-05-27T07:39:08.486Z] [INFO]   Original: 6.00 KB (140x84 , jpeg)
+[2026-05-27T07:39:08.491Z] [INFO]   Converted with quality 80, dimensions 140x84: 2.10 KB
+[2026-05-27T07:39:08.492Z] [SUCCESS]   ✓ Created: clients3.webp
+[2026-05-27T07:39:08.492Z] [INFO] Processing: public\images\logos\clients4.jpg
+[2026-05-27T07:39:08.493Z] [INFO]   Original: 2.88 KB (140x84 , jpeg)
+[2026-05-27T07:39:08.497Z] [INFO]   Converted with quality 80, dimensions 140x84: 1.32 KB
+[2026-05-27T07:39:08.498Z] [SUCCESS]   ✓ Created: clients4.webp
+[2026-05-27T07:39:08.498Z] [INFO] Processing: public\images\logos\clients5.jpg
+[2026-05-27T07:39:08.499Z] [INFO]   Original: 7.23 KB (140x84 , jpeg)
+[2026-05-27T07:39:08.504Z] [INFO]   Converted with quality 80, dimensions 140x84: 1.38 KB
+[2026-05-27T07:39:08.504Z] [SUCCESS]   ✓ Created: clients5.webp
+[2026-05-27T07:39:08.504Z] [INFO] Processing: public\images\logos\logo.png
+[2026-05-27T07:39:08.505Z] [INFO]   Original: 474.60 KB (1599x478 , png)
+[2026-05-27T07:39:08.570Z] [INFO]   Converted with quality 80, dimensions 1599x478: 40.70 KB
+[2026-05-27T07:39:08.571Z] [SUCCESS]   ✓ Created: logo.webp
+[2026-05-27T07:39:08.571Z] [INFO] Processing: public\images\services\air-cargo.jpg
+[2026-05-27T07:39:08.573Z] [INFO]   Original: 71.56 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.597Z] [INFO]   Converted with quality 80, dimensions 400x400: 27.71 KB
+[2026-05-27T07:39:08.597Z] [SUCCESS]   ✓ Created: air-cargo.webp
+[2026-05-27T07:39:08.598Z] [INFO] Processing: public\images\services\car-transport.jpg
+[2026-05-27T07:39:08.599Z] [INFO]   Original: 68.05 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.617Z] [INFO]   Converted with quality 80, dimensions 400x400: 23.18 KB
+[2026-05-27T07:39:08.617Z] [SUCCESS]   ✓ Created: car-transport.webp
+[2026-05-27T07:39:08.617Z] [INFO] Processing: public\images\services\domestic.jpg
+[2026-05-27T07:39:08.619Z] [INFO]   Original: 50.01 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.640Z] [INFO]   Converted with quality 80, dimensions 400x400: 13.37 KB
+[2026-05-27T07:39:08.641Z] [SUCCESS]   ✓ Created: domestic.webp
+[2026-05-27T07:39:08.641Z] [INFO] Processing: public\images\services\land-transport.jpg
+[2026-05-27T07:39:08.642Z] [INFO]   Original: 78.93 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.667Z] [INFO]   Converted with quality 80, dimensions 400x400: 27.30 KB
+[2026-05-27T07:39:08.668Z] [SUCCESS]   ✓ Created: land-transport.webp
+[2026-05-27T07:39:08.668Z] [INFO] Processing: public\images\services\office-shifting.jpg
+[2026-05-27T07:39:08.670Z] [INFO]   Original: 52.74 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.689Z] [INFO]   Converted with quality 80, dimensions 400x400: 14.92 KB
+[2026-05-27T07:39:08.689Z] [SUCCESS]   ✓ Created: office-shifting.webp
+[2026-05-27T07:39:08.690Z] [INFO] Processing: public\images\services\packing.jpg
+[2026-05-27T07:39:08.692Z] [INFO]   Original: 48.38 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.711Z] [INFO]   Converted with quality 80, dimensions 400x400: 11.33 KB
+[2026-05-27T07:39:08.713Z] [SUCCESS]   ✓ Created: packing.webp
+[2026-05-27T07:39:08.713Z] [INFO] Processing: public\images\services\warehouse.jpg
+[2026-05-27T07:39:08.715Z] [INFO]   Original: 93.23 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.741Z] [INFO]   Converted with quality 80, dimensions 400x400: 38.47 KB
+[2026-05-27T07:39:08.742Z] [SUCCESS]   ✓ Created: warehouse.webp
+[2026-05-27T07:39:08.742Z] [INFO] Processing: public\images\testimonials\clientq.png
+[2026-05-27T07:39:08.743Z] [INFO]   Original: 2.85 KB (100x100 , png)
+[2026-05-27T07:39:08.748Z] [INFO]   Converted with quality 80, dimensions 100x100: 2.24 KB
+[2026-05-27T07:39:08.749Z] [SUCCESS]   ✓ Created: clientq.webp
+[2026-05-27T07:39:08.749Z] [INFO] Processing: public\img\ab4.png
+[2026-05-27T07:39:08.750Z] [INFO]   Original: 270.44 KB (390x600 , png)
+[2026-05-27T07:39:08.792Z] [INFO]   Converted with quality 80, dimensions 390x600: 18.80 KB
+[2026-05-27T07:39:08.793Z] [SUCCESS]   ✓ Created: ab4.webp
+[2026-05-27T07:39:08.793Z] [INFO] Processing: public\img\air-cargo.jpg
+[2026-05-27T07:39:08.795Z] [INFO]   Original: 71.56 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.821Z] [INFO]   Converted with quality 80, dimensions 400x400: 27.71 KB
+[2026-05-27T07:39:08.822Z] [SUCCESS]   ✓ Created: air-cargo.webp
+[2026-05-27T07:39:08.822Z] [INFO] Processing: public\img\blog-1.jpg
+[2026-05-27T07:39:08.825Z] [INFO]   Original: 61.41 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.846Z] [INFO]   Converted with quality 80, dimensions 400x400: 18.80 KB
+[2026-05-27T07:39:08.847Z] [SUCCESS]   ✓ Created: blog-1.webp
+[2026-05-27T07:39:08.847Z] [INFO] Processing: public\img\brand-logo\c7.jpg
+[2026-05-27T07:39:08.849Z] [INFO]   Original: 10.04 KB (140x84 , png)
+[2026-05-27T07:39:08.853Z] [INFO]   Converted with quality 80, dimensions 140x84: 1.27 KB
+[2026-05-27T07:39:08.854Z] [SUCCESS]   ✓ Created: c7.webp
+[2026-05-27T07:39:08.854Z] [INFO] Processing: public\img\brand-logo\clients1.jpg
+[2026-05-27T07:39:08.856Z] [INFO]   Original: 6.28 KB (142x84 , jpeg)
+[2026-05-27T07:39:08.861Z] [INFO]   Converted with quality 80, dimensions 142x84: 2.00 KB
+[2026-05-27T07:39:08.862Z] [SUCCESS]   ✓ Created: clients1.webp
+[2026-05-27T07:39:08.862Z] [INFO] Processing: public\img\brand-logo\clients2.jpg
+[2026-05-27T07:39:08.864Z] [INFO]   Original: 6.46 KB (140x84 , jpeg)
+[2026-05-27T07:39:08.869Z] [INFO]   Converted with quality 80, dimensions 140x84: 1.42 KB
+[2026-05-27T07:39:08.869Z] [SUCCESS]   ✓ Created: clients2.webp
+[2026-05-27T07:39:08.869Z] [INFO] Processing: public\img\brand-logo\clients3.jpg
+[2026-05-27T07:39:08.871Z] [INFO]   Original: 6.00 KB (140x84 , jpeg)
+[2026-05-27T07:39:08.875Z] [INFO]   Converted with quality 80, dimensions 140x84: 2.10 KB
+[2026-05-27T07:39:08.876Z] [SUCCESS]   ✓ Created: clients3.webp
+[2026-05-27T07:39:08.876Z] [INFO] Processing: public\img\brand-logo\clients4.jpg
+[2026-05-27T07:39:08.878Z] [INFO]   Original: 2.88 KB (140x84 , jpeg)
+[2026-05-27T07:39:08.884Z] [INFO]   Converted with quality 80, dimensions 140x84: 1.32 KB
+[2026-05-27T07:39:08.884Z] [SUCCESS]   ✓ Created: clients4.webp
+[2026-05-27T07:39:08.884Z] [INFO] Processing: public\img\brand-logo\clients5.jpg
+[2026-05-27T07:39:08.886Z] [INFO]   Original: 7.23 KB (140x84 , jpeg)
+[2026-05-27T07:39:08.890Z] [INFO]   Converted with quality 80, dimensions 140x84: 1.38 KB
+[2026-05-27T07:39:08.891Z] [SUCCESS]   ✓ Created: clients5.webp
+[2026-05-27T07:39:08.891Z] [INFO] Processing: public\img\car-transport.jpg
+[2026-05-27T07:39:08.893Z] [INFO]   Original: 68.05 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.916Z] [INFO]   Converted with quality 80, dimensions 400x400: 23.18 KB
+[2026-05-27T07:39:08.917Z] [SUCCESS]   ✓ Created: car-transport.webp
+[2026-05-27T07:39:08.917Z] [INFO] Processing: public\img\clientq.png
+[2026-05-27T07:39:08.918Z] [INFO]   Original: 2.85 KB (100x100 , png)
+[2026-05-27T07:39:08.923Z] [INFO]   Converted with quality 80, dimensions 100x100: 2.24 KB
+[2026-05-27T07:39:08.924Z] [SUCCESS]   ✓ Created: clientq.webp
+[2026-05-27T07:39:08.924Z] [INFO] Processing: public\img\domestic.jpg
+[2026-05-27T07:39:08.925Z] [INFO]   Original: 50.01 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.946Z] [INFO]   Converted with quality 80, dimensions 400x400: 13.37 KB
+[2026-05-27T07:39:08.947Z] [SUCCESS]   ✓ Created: domestic.webp
+[2026-05-27T07:39:08.947Z] [INFO] Processing: public\img\floating-call.png
+[2026-05-27T07:39:08.948Z] [INFO]   Original: 4.18 KB (64x64 , png)
+[2026-05-27T07:39:08.952Z] [INFO]   Converted with quality 80, dimensions 64x64: 1.29 KB
+[2026-05-27T07:39:08.953Z] [SUCCESS]   ✓ Created: floating-call.webp
+[2026-05-27T07:39:08.953Z] [INFO] Processing: public\img\land-transport.jpg
+[2026-05-27T07:39:08.954Z] [INFO]   Original: 78.93 KB (400x400 , jpeg)
+[2026-05-27T07:39:08.982Z] [INFO]   Converted with quality 80, dimensions 400x400: 27.30 KB
+[2026-05-27T07:39:08.983Z] [SUCCESS]   ✓ Created: land-transport.webp
+[2026-05-27T07:39:08.983Z] [INFO] Processing: public\img\office-shifting.jpg
+[2026-05-27T07:39:08.984Z] [INFO]   Original: 52.74 KB (400x400 , jpeg)
+[2026-05-27T07:39:09.001Z] [INFO]   Converted with quality 80, dimensions 400x400: 14.92 KB
+[2026-05-27T07:39:09.001Z] [SUCCESS]   ✓ Created: office-shifting.webp
+[2026-05-27T07:39:09.002Z] [INFO] Processing: public\img\packing.jpg
+[2026-05-27T07:39:09.004Z] [INFO]   Original: 48.38 KB (400x400 , jpeg)
+[2026-05-27T07:39:09.023Z] [INFO]   Converted with quality 80, dimensions 400x400: 11.33 KB
+[2026-05-27T07:39:09.024Z] [SUCCESS]   ✓ Created: packing.webp
+[2026-05-27T07:39:09.024Z] [INFO] Processing: public\img\warehouse.jpg
+[2026-05-27T07:39:09.025Z] [INFO]   Original: 93.23 KB (400x400 , jpeg)
+[2026-05-27T07:39:09.046Z] [INFO]   Converted with quality 80, dimensions 400x400: 38.47 KB
+[2026-05-27T07:39:09.047Z] [SUCCESS]   ✓ Created: warehouse.webp
+[2026-05-27T07:39:09.047Z] [INFO] Processing: public\img\whatsapp.png
+[2026-05-27T07:39:09.047Z] [INFO]   Original: 4.93 KB (64x64 , png)
+[2026-05-27T07:39:09.051Z] [INFO]   Converted with quality 80, dimensions 64x64: 1.35 KB
+[2026-05-27T07:39:09.052Z] [SUCCESS]   ✓ Created: whatsapp.webp
+[2026-05-27T07:39:09.052Z] [INFO] Processing: scratch\orig-breadcrumb-bg.jpg
+[2026-05-27T07:39:09.053Z] [INFO]   Original: 153.19 KB (2000x967 , jpeg)
+[2026-05-27T07:39:09.186Z] [INFO]   Converted with quality 80, dimensions 2000x967: 46.32 KB
+[2026-05-27T07:39:09.187Z] [SUCCESS]   ✓ Created: orig-breadcrumb-bg.webp
+[2026-05-27T07:39:09.187Z] [SUCCESS] Conversion complete: 66 succeeded, 2 failed
+[2026-05-27T07:39:09.187Z] [INFO] 
+[2026-05-27T07:39:09.187Z] [INFO] Step 3: Updating code references...
+[2026-05-27T07:39:09.208Z] [INFO]   Updated 1 reference(s) in: scratch-about.html
+[2026-05-27T07:39:09.209Z] [INFO]   Updated 1 reference(s) in: src\app\about\page.js
+[2026-05-27T07:39:09.210Z] [INFO]   Updated 1 reference(s) in: src\app\gallery\page.js
+[2026-05-27T07:39:09.211Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:09.219Z] [INFO]   Updated 1 reference(s) in: temp_assets\about.html
+[2026-05-27T07:39:09.232Z] [INFO]   Updated 1 reference(s) in: scratch\branches_live.html
+[2026-05-27T07:39:09.233Z] [INFO]   Updated 1 reference(s) in: scratch\contact_live.html
+[2026-05-27T07:39:09.235Z] [INFO]   Updated 1 reference(s) in: scratch\jaipur_live.html
+[2026-05-27T07:39:09.236Z] [INFO]   Updated 1 reference(s) in: scratch-about.html
+[2026-05-27T07:39:09.239Z] [INFO]   Updated 2 reference(s) in: src\components\Breadcrumb.jsx
+[2026-05-27T07:39:09.244Z] [INFO]   Updated 1 reference(s) in: temp_assets\about.html
+[2026-05-27T07:39:09.252Z] [INFO]   Updated 1 reference(s) in: temp_assets\house.html
+[2026-05-27T07:39:09.258Z] [INFO]   Updated 1 reference(s) in: scratch\branches_live.html
+[2026-05-27T07:39:09.259Z] [INFO]   Updated 1 reference(s) in: scratch\contact_live.html
+[2026-05-27T07:39:09.261Z] [INFO]   Updated 1 reference(s) in: scratch\jaipur_live.html
+[2026-05-27T07:39:09.262Z] [INFO]   Updated 1 reference(s) in: scratch-about.html
+[2026-05-27T07:39:09.266Z] [INFO]   Updated 1 reference(s) in: src\components\Breadcrumb.jsx
+[2026-05-27T07:39:09.274Z] [INFO]   Updated 1 reference(s) in: temp_assets\about.html
+[2026-05-27T07:39:09.279Z] [INFO]   Updated 1 reference(s) in: temp_assets\house.html
+[2026-05-27T07:39:09.283Z] [INFO]   Updated 1 reference(s) in: scratch\contact_live.html
+[2026-05-27T07:39:09.286Z] [INFO]   Updated 2 reference(s) in: src\components\ContactPageForm.jsx
+[2026-05-27T07:39:09.303Z] [INFO]   Updated 1 reference(s) in: src\components\Footer.jsx
+[2026-05-27T07:39:09.328Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:09.350Z] [INFO]   Updated 1 reference(s) in: scratch\branches_live.html
+[2026-05-27T07:39:09.351Z] [INFO]   Updated 1 reference(s) in: scratch\contact_live.html
+[2026-05-27T07:39:09.353Z] [INFO]   Updated 1 reference(s) in: scratch\jaipur_live.html
+[2026-05-27T07:39:09.354Z] [INFO]   Updated 1 reference(s) in: scratch-about.html
+[2026-05-27T07:39:09.356Z] [INFO]   Updated 3 reference(s) in: src\app\layout.js
+[2026-05-27T07:39:09.357Z] [INFO]   Updated 1 reference(s) in: src\app\manifest.js
+[2026-05-27T07:39:09.364Z] [INFO]   Updated 1 reference(s) in: temp_assets\about.html
+[2026-05-27T07:39:09.372Z] [INFO]   Updated 1 reference(s) in: temp_assets\house.html
+[2026-05-27T07:39:09.384Z] [INFO]   Updated 1 reference(s) in: src\components\HeroSlider.jsx
+[2026-05-27T07:39:09.411Z] [INFO]   Updated 1 reference(s) in: src\components\HeroSlider.jsx
+[2026-05-27T07:39:09.432Z] [INFO]   Updated 1 reference(s) in: src\components\HeroSlider.jsx
+[2026-05-27T07:39:09.453Z] [INFO]   Updated 1 reference(s) in: src\components\HeroSlider.jsx
+[2026-05-27T07:39:09.475Z] [INFO]   Updated 1 reference(s) in: scratch\branches_live.html
+[2026-05-27T07:39:09.476Z] [INFO]   Updated 1 reference(s) in: scratch\contact_live.html
+[2026-05-27T07:39:09.478Z] [INFO]   Updated 1 reference(s) in: scratch\jaipur_live.html
+[2026-05-27T07:39:09.479Z] [INFO]   Updated 1 reference(s) in: scratch-about.html
+[2026-05-27T07:39:09.483Z] [INFO]   Updated 1 reference(s) in: src\components\Breadcrumb.jsx
+[2026-05-27T07:39:09.492Z] [INFO]   Updated 1 reference(s) in: temp_assets\about.html
+[2026-05-27T07:39:09.500Z] [INFO]   Updated 1 reference(s) in: temp_assets\house.html
+[2026-05-27T07:39:09.506Z] [INFO]   Updated 1 reference(s) in: scratch\branches_live.html
+[2026-05-27T07:39:09.507Z] [INFO]   Updated 1 reference(s) in: scratch\contact_live.html
+[2026-05-27T07:39:09.508Z] [INFO]   Updated 1 reference(s) in: scratch\jaipur_live.html
+[2026-05-27T07:39:09.509Z] [INFO]   Updated 1 reference(s) in: scratch-about.html
+[2026-05-27T07:39:09.512Z] [INFO]   Updated 1 reference(s) in: src\components\Breadcrumb.jsx
+[2026-05-27T07:39:09.518Z] [INFO]   Updated 1 reference(s) in: temp_assets\about.html
+[2026-05-27T07:39:09.528Z] [INFO]   Updated 1 reference(s) in: temp_assets\house.html
+[2026-05-27T07:39:09.539Z] [INFO]   Updated 4 reference(s) in: src\app\page.js
+[2026-05-27T07:39:09.565Z] [INFO]   Updated 1 reference(s) in: scratch\branches_live.html
+[2026-05-27T07:39:09.566Z] [INFO]   Updated 1 reference(s) in: scratch\contact_live.html
+[2026-05-27T07:39:09.568Z] [INFO]   Updated 1 reference(s) in: scratch\jaipur_live.html
+[2026-05-27T07:39:09.569Z] [INFO]   Updated 1 reference(s) in: scratch-about.html
+[2026-05-27T07:39:09.572Z] [INFO]   Updated 1 reference(s) in: src\components\Footer.jsx
+[2026-05-27T07:39:09.578Z] [INFO]   Updated 1 reference(s) in: temp_assets\about.html
+[2026-05-27T07:39:09.584Z] [INFO]   Updated 1 reference(s) in: temp_assets\house.html
+[2026-05-27T07:39:09.588Z] [INFO]   Updated 1 reference(s) in: scratch\branches_live.html
+[2026-05-27T07:39:09.589Z] [INFO]   Updated 1 reference(s) in: scratch\contact_live.html
+[2026-05-27T07:39:09.590Z] [INFO]   Updated 1 reference(s) in: scratch\jaipur_live.html
+[2026-05-27T07:39:09.591Z] [INFO]   Updated 1 reference(s) in: scratch-about.html
+[2026-05-27T07:39:09.594Z] [INFO]   Updated 1 reference(s) in: src\components\Footer.jsx
+[2026-05-27T07:39:09.603Z] [INFO]   Updated 1 reference(s) in: temp_assets\about.html
+[2026-05-27T07:39:09.611Z] [INFO]   Updated 1 reference(s) in: temp_assets\house.html
+[2026-05-27T07:39:09.616Z] [INFO]   Updated 3 reference(s) in: scratch\branches_live.html
+[2026-05-27T07:39:09.617Z] [INFO]   Updated 3 reference(s) in: scratch\contact_live.html
+[2026-05-27T07:39:09.618Z] [INFO]   Updated 1 reference(s) in: scratch\fetch-logo-attrs.js
+[2026-05-27T07:39:09.620Z] [INFO]   Updated 3 reference(s) in: scratch\jaipur_live.html
+[2026-05-27T07:39:09.621Z] [INFO]   Updated 3 reference(s) in: scratch-about.html
+[2026-05-27T07:39:09.622Z] [INFO]   Updated 1 reference(s) in: src\app\about\page.js
+[2026-05-27T07:39:09.623Z] [INFO]   Updated 1 reference(s) in: src\app\air\page.js
+[2026-05-27T07:39:09.624Z] [INFO]   Updated 1 reference(s) in: src\app\car\page.js
+[2026-05-27T07:39:09.625Z] [INFO]   Updated 1 reference(s) in: src\app\contact\page.js
+[2026-05-27T07:39:09.625Z] [INFO]   Updated 1 reference(s) in: src\app\domestic\page.js
+[2026-05-27T07:39:09.627Z] [INFO]   Updated 1 reference(s) in: src\app\house\page.js
+[2026-05-27T07:39:09.627Z] [INFO]   Updated 2 reference(s) in: src\app\layout.js
+[2026-05-27T07:39:09.628Z] [INFO]   Updated 1 reference(s) in: src\app\office\page.js
+[2026-05-27T07:39:09.629Z] [INFO]   Updated 1 reference(s) in: src\app\packing\page.js
+[2026-05-27T07:39:09.630Z] [INFO]   Updated 2 reference(s) in: src\app\page.js
+[2026-05-27T07:39:09.631Z] [INFO]   Updated 1 reference(s) in: src\app\sea\page.js
+[2026-05-27T07:39:09.632Z] [INFO]   Updated 1 reference(s) in: src\app\transport\page.js
+[2026-05-27T07:39:09.632Z] [INFO]   Updated 1 reference(s) in: src\app\warehousing\page.js
+[2026-05-27T07:39:09.633Z] [INFO]   Updated 1 reference(s) in: src\app\[slug]\page.js
+[2026-05-27T07:39:09.634Z] [INFO]   Updated 1 reference(s) in: src\components\Footer.jsx
+[2026-05-27T07:39:09.636Z] [INFO]   Updated 2 reference(s) in: src\components\Navbar.jsx
+[2026-05-27T07:39:09.645Z] [INFO]   Updated 3 reference(s) in: temp_assets\about.html
+[2026-05-27T07:39:09.652Z] [INFO]   Updated 3 reference(s) in: temp_assets\house.html
+[2026-05-27T07:39:09.662Z] [INFO]   Updated 1 reference(s) in: src\components\Footer.jsx
+[2026-05-27T07:39:09.711Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:09.884Z] [INFO]   Updated 1 reference(s) in: src\app\gallery\page.js
+[2026-05-27T07:39:09.885Z] [INFO]   Updated 1 reference(s) in: src\app\house\page.js
+[2026-05-27T07:39:09.886Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:09.888Z] [INFO]   Updated 1 reference(s) in: src\components\GallerySlider.jsx
+[2026-05-27T07:39:09.907Z] [INFO]   Updated 1 reference(s) in: temp_assets\house.html
+[2026-05-27T07:39:09.911Z] [INFO]   Updated 1 reference(s) in: scratch\branches_live.html
+[2026-05-27T07:39:09.912Z] [INFO]   Updated 1 reference(s) in: scratch\contact_live.html
+[2026-05-27T07:39:09.913Z] [INFO]   Updated 1 reference(s) in: scratch\jaipur_live.html
+[2026-05-27T07:39:09.914Z] [INFO]   Updated 1 reference(s) in: scratch-about.html
+[2026-05-27T07:39:09.918Z] [INFO]   Updated 1 reference(s) in: src\components\Footer.jsx
+[2026-05-27T07:39:09.927Z] [INFO]   Updated 1 reference(s) in: temp_assets\about.html
+[2026-05-27T07:39:09.936Z] [INFO]   Updated 1 reference(s) in: temp_assets\house.html
+[2026-05-27T07:39:09.942Z] [INFO]   Updated 1 reference(s) in: scratch\branches_live.html
+[2026-05-27T07:39:09.943Z] [INFO]   Updated 1 reference(s) in: scratch\contact_live.html
+[2026-05-27T07:39:09.945Z] [INFO]   Updated 1 reference(s) in: scratch\jaipur_live.html
+[2026-05-27T07:39:09.946Z] [INFO]   Updated 1 reference(s) in: scratch-about.html
+[2026-05-27T07:39:09.949Z] [INFO]   Updated 1 reference(s) in: src\components\Footer.jsx
+[2026-05-27T07:39:09.955Z] [INFO]   Updated 1 reference(s) in: temp_assets\about.html
+[2026-05-27T07:39:09.960Z] [INFO]   Updated 1 reference(s) in: temp_assets\house.html
+[2026-05-27T07:39:10.045Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.068Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.088Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.113Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.138Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.155Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.204Z] [INFO]   Updated 1 reference(s) in: src\app\air\page.js
+[2026-05-27T07:39:10.205Z] [INFO]   Updated 1 reference(s) in: src\app\gallery\page.js
+[2026-05-27T07:39:10.207Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.209Z] [INFO]   Updated 1 reference(s) in: src\components\GallerySlider.jsx
+[2026-05-27T07:39:10.234Z] [INFO]   Updated 1 reference(s) in: src\app\car\page.js
+[2026-05-27T07:39:10.235Z] [INFO]   Updated 1 reference(s) in: src\app\gallery\page.js
+[2026-05-27T07:39:10.236Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.238Z] [INFO]   Updated 1 reference(s) in: src\components\GallerySlider.jsx
+[2026-05-27T07:39:10.252Z] [INFO]   Updated 1 reference(s) in: src\app\domestic\page.js
+[2026-05-27T07:39:10.253Z] [INFO]   Updated 1 reference(s) in: src\app\gallery\page.js
+[2026-05-27T07:39:10.254Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.255Z] [INFO]   Updated 1 reference(s) in: src\components\GallerySlider.jsx
+[2026-05-27T07:39:10.282Z] [INFO]   Updated 1 reference(s) in: src\app\gallery\page.js
+[2026-05-27T07:39:10.283Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.284Z] [INFO]   Updated 1 reference(s) in: src\app\transport\page.js
+[2026-05-27T07:39:10.285Z] [INFO]   Updated 1 reference(s) in: src\components\GallerySlider.jsx
+[2026-05-27T07:39:10.301Z] [INFO]   Updated 1 reference(s) in: src\app\gallery\page.js
+[2026-05-27T07:39:10.303Z] [INFO]   Updated 1 reference(s) in: src\app\office\page.js
+[2026-05-27T07:39:10.304Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.308Z] [INFO]   Updated 1 reference(s) in: src\components\GallerySlider.jsx
+[2026-05-27T07:39:10.337Z] [INFO]   Updated 1 reference(s) in: src\app\gallery\page.js
+[2026-05-27T07:39:10.338Z] [INFO]   Updated 1 reference(s) in: src\app\packing\page.js
+[2026-05-27T07:39:10.339Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.341Z] [INFO]   Updated 1 reference(s) in: src\app\[slug]\page.js
+[2026-05-27T07:39:10.342Z] [INFO]   Updated 1 reference(s) in: src\components\GallerySlider.jsx
+[2026-05-27T07:39:10.365Z] [INFO]   Updated 1 reference(s) in: src\app\gallery\page.js
+[2026-05-27T07:39:10.367Z] [INFO]   Updated 1 reference(s) in: src\app\page.js
+[2026-05-27T07:39:10.368Z] [INFO]   Updated 1 reference(s) in: src\app\sea\page.js
+[2026-05-27T07:39:10.369Z] [INFO]   Updated 1 reference(s) in: src\app\warehousing\page.js
+[2026-05-27T07:39:10.369Z] [INFO]   Updated 1 reference(s) in: src\components\GallerySlider.jsx
+[2026-05-27T07:39:10.394Z] [INFO]   Updated 1 reference(s) in: src\components\TestimonialCard.jsx
+[2026-05-27T07:39:10.811Z] [SUCCESS] Updated 167 reference(s) across all source files
+[2026-05-27T07:39:10.812Z] [INFO] 
+[2026-05-27T07:39:10.812Z] [INFO] Step 4: Cleaning up original files...
+[2026-05-27T07:39:10.812Z] [INFO]   Deleted: public\assets\img\about\about-2-main.jpg
+[2026-05-27T07:39:10.812Z] [INFO]   Deleted: public\assets\img\bg\breadcrumb-bg.jpg
+[2026-05-27T07:39:10.813Z] [INFO]   Deleted: public\assets\img\bg\breadcrumb-bottom.png
+[2026-05-27T07:39:10.813Z] [INFO]   Deleted: public\assets\img\bg\contact_form_bg.jpg
+[2026-05-27T07:39:10.813Z] [INFO]   Deleted: public\assets\img\bg\footer_bg_2.jpg
+[2026-05-27T07:39:10.814Z] [INFO]   Deleted: public\assets\img\bg\service-bg-1-1.png
+[2026-05-27T07:39:10.814Z] [INFO]   Deleted: public\assets\img\favicon.png
+[2026-05-27T07:39:10.814Z] [INFO]   Deleted: public\assets\img\hero\hero2-overlay.png
+[2026-05-27T07:39:10.814Z] [INFO]   Deleted: public\assets\img\hero\hero_bg_2_1.jpg
+[2026-05-27T07:39:10.815Z] [INFO]   Deleted: public\assets\img\hero\hero_bg_2_2.jpg
+[2026-05-27T07:39:10.815Z] [INFO]   Deleted: public\assets\img\hero\hero_bg_2_3.jpg
+[2026-05-27T07:39:10.815Z] [INFO]   Deleted: public\assets\img\icon\breadcrumb-left.png
+[2026-05-27T07:39:10.815Z] [INFO]   Deleted: public\assets\img\icon\breadcrumb-right.png
+[2026-05-27T07:39:10.815Z] [INFO]   Deleted: public\assets\img\icon\counter-shape-2-1.png
+[2026-05-27T07:39:10.816Z] [INFO]   Deleted: public\assets\img\icon\footer-shape-1.png
+[2026-05-27T07:39:10.816Z] [INFO]   Deleted: public\assets\img\icon\footer-shape-2.png
+[2026-05-27T07:39:10.816Z] [INFO]   Deleted: public\assets\img\logo.png
+[2026-05-27T07:39:10.816Z] [INFO]   Deleted: public\assets\img\shape\footer-1-top-shape.png
+[2026-05-27T07:39:10.816Z] [INFO]   Deleted: public\favicon\favicon.png
+[2026-05-27T07:39:10.816Z] [INFO]   Deleted: public\images\about\ab4.png
+[2026-05-27T07:39:10.817Z] [INFO]   Deleted: public\images\about\about-2-main.jpg
+[2026-05-27T07:39:10.817Z] [INFO]   Deleted: public\images\backgrounds\service-bg-1-1.png
+[2026-05-27T07:39:10.817Z] [INFO]   Deleted: public\images\banners\hero2-overlay.png
+[2026-05-27T07:39:10.818Z] [INFO]   Deleted: public\images\banners\hero_bg_2_1.jpg
+[2026-05-27T07:39:10.818Z] [INFO]   Deleted: public\images\banners\hero_bg_2_2.jpg
+[2026-05-27T07:39:10.818Z] [INFO]   Deleted: public\images\banners\hero_bg_2_3.jpg
+[2026-05-27T07:39:10.818Z] [INFO]   Deleted: public\images\blog\blog-1.jpg
+[2026-05-27T07:39:10.819Z] [INFO]   Deleted: public\images\common\floating-call.png
+[2026-05-27T07:39:10.819Z] [INFO]   Deleted: public\images\common\whatsapp.png
+[2026-05-27T07:39:10.819Z] [INFO]   Deleted: public\images\icons\counter-shape-2-1.png
+[2026-05-27T07:39:10.819Z] [INFO]   Deleted: public\images\icons\footer-shape-1.png
+[2026-05-27T07:39:10.820Z] [INFO]   Deleted: public\images\icons\footer-shape-2.png
+[2026-05-27T07:39:10.820Z] [INFO]   Deleted: public\images\logos\c7.jpg
+[2026-05-27T07:39:10.820Z] [INFO]   Deleted: public\images\logos\clients1.jpg
+[2026-05-27T07:39:10.820Z] [INFO]   Deleted: public\images\logos\clients2.jpg
+[2026-05-27T07:39:10.821Z] [INFO]   Deleted: public\images\logos\clients3.jpg
+[2026-05-27T07:39:10.821Z] [INFO]   Deleted: public\images\logos\clients4.jpg
+[2026-05-27T07:39:10.821Z] [INFO]   Deleted: public\images\logos\clients5.jpg
+[2026-05-27T07:39:10.822Z] [INFO]   Deleted: public\images\logos\logo.png
+[2026-05-27T07:39:10.822Z] [INFO]   Deleted: public\images\services\air-cargo.jpg
+[2026-05-27T07:39:10.822Z] [INFO]   Deleted: public\images\services\car-transport.jpg
+[2026-05-27T07:39:10.822Z] [INFO]   Deleted: public\images\services\domestic.jpg
+[2026-05-27T07:39:10.823Z] [INFO]   Deleted: public\images\services\land-transport.jpg
+[2026-05-27T07:39:10.823Z] [INFO]   Deleted: public\images\services\office-shifting.jpg
+[2026-05-27T07:39:10.823Z] [INFO]   Deleted: public\images\services\packing.jpg
+[2026-05-27T07:39:10.824Z] [INFO]   Deleted: public\images\services\warehouse.jpg
+[2026-05-27T07:39:10.824Z] [INFO]   Deleted: public\images\testimonials\clientq.png
+[2026-05-27T07:39:10.824Z] [INFO]   Deleted: public\img\ab4.png
+[2026-05-27T07:39:10.824Z] [INFO]   Deleted: public\img\air-cargo.jpg
+[2026-05-27T07:39:10.824Z] [INFO]   Deleted: public\img\blog-1.jpg
+[2026-05-27T07:39:10.825Z] [INFO]   Deleted: public\img\brand-logo\c7.jpg
+[2026-05-27T07:39:10.825Z] [INFO]   Deleted: public\img\brand-logo\clients1.jpg
+[2026-05-27T07:39:10.825Z] [INFO]   Deleted: public\img\brand-logo\clients2.jpg
+[2026-05-27T07:39:10.826Z] [INFO]   Deleted: public\img\brand-logo\clients3.jpg
+[2026-05-27T07:39:10.826Z] [INFO]   Deleted: public\img\brand-logo\clients4.jpg
+[2026-05-27T07:39:10.826Z] [INFO]   Deleted: public\img\brand-logo\clients5.jpg
+[2026-05-27T07:39:10.826Z] [INFO]   Deleted: public\img\car-transport.jpg
+[2026-05-27T07:39:10.827Z] [INFO]   Deleted: public\img\clientq.png
+[2026-05-27T07:39:10.827Z] [INFO]   Deleted: public\img\domestic.jpg
+[2026-05-27T07:39:10.827Z] [INFO]   Deleted: public\img\floating-call.png
+[2026-05-27T07:39:10.827Z] [INFO]   Deleted: public\img\land-transport.jpg
+[2026-05-27T07:39:10.828Z] [INFO]   Deleted: public\img\office-shifting.jpg
+[2026-05-27T07:39:10.828Z] [INFO]   Deleted: public\img\packing.jpg
+[2026-05-27T07:39:10.828Z] [INFO]   Deleted: public\img\warehouse.jpg
+[2026-05-27T07:39:10.829Z] [INFO]   Deleted: public\img\whatsapp.png
+[2026-05-27T07:39:10.829Z] [INFO]   Deleted: scratch\orig-breadcrumb-bg.jpg
+[2026-05-27T07:39:10.829Z] [SUCCESS] Cleanup complete: 66 deleted, 0 skipped, 0 failed
+[2026-05-27T07:39:10.829Z] [INFO] 
+[2026-05-27T07:39:10.829Z] [INFO] ═══════════════════════════════════════════════════════
+[2026-05-27T07:39:10.829Z] [SUCCESS] IMAGE OPTIMIZATION COMPLETED SUCCESSFULLY!
+[2026-05-27T07:39:10.829Z] [INFO] ═══════════════════════════════════════════════════════
+[2026-05-27T07:39:10.829Z] [INFO] ✓ Converted: 66 images
+[2026-05-27T07:39:10.829Z] [INFO] ✗ Failed: 2 images
+[2026-05-27T07:39:10.829Z] [INFO] Space Saved: 9088.66 KB (85.00%)
+[2026-05-27T07:39:10.829Z] [INFO] Log file saved to: C:\Users\Yogesh Poonia\Desktop\temp2\image-optimization.log
+[2026-05-27T07:39:10.829Z] [INFO] 

@@ -21,7 +21,7 @@ export default function CarTransportation() {
     "provider": {
       "@type": "LocalBusiness",
       "name": "Agarwal On Time Cargo Packers & Movers",
-      "image": "https://www.agarwalontimecargopackers.com/assets/img/logo.png",
+      "image": "https://www.agarwalontimecargopackers.com/assets/img/logo.webp",
       "telephone": "+91 8095279595",
       "email": "agarwalpackersmoversa@gmail.com",
       "url": "https://www.agarwalontimecargopackers.com"
@@ -60,7 +60,7 @@ export default function CarTransportation() {
                       <div className="page-img">
                         <img
                           className="w-100"
-                          src="/img/car-transport.jpg"
+                          src="/img/car-transport.webp"
                           alt="Car Transportation Service"
                           width="350"
                           height="230"

@@ -18,7 +18,7 @@ export default function Contact() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "name": "Agarwal On Time Cargo Packers & Movers",
-    "image": "https://www.agarwalontimecargopackers.com/assets/img/logo.png",
+    "image": "https://www.agarwalontimecargopackers.com/assets/img/logo.webp",
     "@id": "https://www.agarwalontimecargopackers.com/#localbusiness",
     "url": "https://www.agarwalontimecargopackers.com",
     "telephone": "+91 8095279595",

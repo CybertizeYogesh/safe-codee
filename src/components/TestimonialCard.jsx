@@ -5,7 +5,7 @@ export default function TestimonialCard({ name, location, rating = 5, title, tex
     <div className="testi-block" dir="ltr">
       <div className="testi-block-top">
         <div className="box-img">
-          <img src="/img/clientq.png" alt="Avatar" width="60" height="60" loading="lazy" style={{ objectFit: "cover" }} />
+          <img src="/img/clientq.webp" alt="Avatar" width="60" height="60" loading="lazy" style={{ objectFit: "cover" }} />
         </div>
         <div className="content">
           <h4 className="box-title">{name}</h4>

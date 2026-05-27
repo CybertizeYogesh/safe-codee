@@ -31,22 +31,22 @@ export default function Breadcrumb({ title, canonicalUrl }) {
       />
       <div
         className="breadcumb-wrapper"
-        data-bg-src="/assets/img/bg/breadcrumb-bg.jpg"
+        data-bg-src="/assets/img/bg/breadcrumb-bg.webp"
         style={{
-          backgroundImage: "url('/assets/img/bg/breadcrumb-bg.jpg')",
+          backgroundImage: "url('/assets/img/bg/breadcrumb-bg.webp')",
           backgroundSize: "cover",
           backgroundPosition: "center center",
           backgroundRepeat: "no-repeat"
         }}
       >
         <div className="breadcrumb-bottom-shape">
-          <img src="/assets/img/bg/breadcrumb-bottom.png" alt="" width="1920" height="80" loading="lazy" />
+          <img src="/assets/img/bg/breadcrumb-bottom.webp" alt="" width="1920" height="80" loading="lazy" />
         </div>
         <div className="shape-mockup breadcrumb-left jump-reverse">
-          <img src="/assets/img/icon/breadcrumb-left.png" alt="" width="150" height="200" loading="lazy" />
+          <img src="/assets/img/icon/breadcrumb-left.webp" alt="" width="150" height="200" loading="lazy" />
         </div>
         <div className="shape-mockup breadcrumb-right jump">
-          <img src="/assets/img/icon/breadcrumb-right.png" alt="" width="150" height="200" loading="lazy" />
+          <img src="/assets/img/icon/breadcrumb-right.webp" alt="" width="150" height="200" loading="lazy" />
         </div>
         <div className="container">
           <div className="breadcumb-content">

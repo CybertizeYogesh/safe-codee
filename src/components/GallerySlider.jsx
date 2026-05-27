@@ -4,14 +4,14 @@ import React, { useState, useEffect } from "react";
 
 export default function GallerySlider() {
   const images = [
-    { src: "/img/packing.jpg", alt: "Packing Services" },
-    { src: "/img/blog-1.jpg", alt: "Relocation operations" },
-    { src: "/img/car-transport.jpg", alt: "Car Transportation" },
-    { src: "/img/domestic.jpg", alt: "Domestic Shifting" },
-    { src: "/img/land-transport.jpg", alt: "Land Transportation" },
-    { src: "/img/office-shifting.jpg", alt: "Office Relocation" },
-    { src: "/img/warehouse.jpg", alt: "Warehousing Services" },
-    { src: "/img/air-cargo.jpg", alt: "Air Cargo Services" },
+    { src: "/img/packing.webp", alt: "Packing Services" },
+    { src: "/img/blog-1.webp", alt: "Relocation operations" },
+    { src: "/img/car-transport.webp", alt: "Car Transportation" },
+    { src: "/img/domestic.webp", alt: "Domestic Shifting" },
+    { src: "/img/land-transport.webp", alt: "Land Transportation" },
+    { src: "/img/office-shifting.webp", alt: "Office Relocation" },
+    { src: "/img/warehouse.webp", alt: "Warehousing Services" },
+    { src: "/img/air-cargo.webp", alt: "Air Cargo Services" },
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);

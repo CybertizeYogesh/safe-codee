@@ -73,9 +73,9 @@ export default function ContactPageForm() {
   return (
     <div
       className="quote-form-box style-2 background-image"
-      data-bg-src="/assets/img/bg/contact_form_bg.jpg"
+      data-bg-src="/assets/img/bg/contact_form_bg.webp"
       style={{
-        backgroundImage: "url('/assets/img/bg/contact_form_bg.jpg')",
+        backgroundImage: "url('/assets/img/bg/contact_form_bg.webp')",
         backgroundSize: "cover",
         backgroundPosition: "center center",
         backgroundRepeat: "no-repeat"

@@ -75,7 +75,7 @@ export default function Navbar() {
           <div className="mobile-logo">
             <Link href="/" onClick={closeMobileMenu}>
               <img
-                src="/assets/img/logo.png"
+                src="/assets/img/logo.webp"
                 alt="Agarwal On Time Cargo Packers and Movers Logo"
                 width="160"
                 height="48"
@@ -182,7 +182,7 @@ export default function Navbar() {
                   <div className="header-logo">
                     <Link href="/">
                       <img
-                        src="/assets/img/logo.png"
+                        src="/assets/img/logo.webp"
                         alt="Agarwal On Time Cargo Packers and Movers Logo"
                         width="160"
                         height="48"

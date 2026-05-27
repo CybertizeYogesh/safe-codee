@@ -6,12 +6,16 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "optimize-images": "node scripts/optimize-images.js",
+    "optimize-images:dry-run": "node scripts/optimize-images.js --dry-run"
   },
   "dependencies": {
+    "heic-convert": "^2.1.0",
     "next": "16.2.6",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "sharp": "^0.34.5"
   },
   "devDependencies": {
     "eslint": "^9",

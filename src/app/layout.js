@@ -41,7 +41,7 @@ export const metadata = {
     type: "website",
     images: [
       {
-        url: "/assets/img/logo.png",
+        url: "/assets/img/logo.webp",
         width: 800,
         height: 600,
         alt: "Agarwal On Time Cargo Packers & Movers Logo",
@@ -52,7 +52,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Agarwal Packers and Movers Bangalore | Movers and Packers Bangalore",
     description: "Agarwal Packers and Movers Bangalore offers professional home moving services, household shifting services, and secure car transportation. Get a free quote today!",
-    images: ["/assets/img/logo.png"],
+    images: ["/assets/img/logo.webp"],
   },
   robots: {
     index: true,
@@ -66,9 +66,9 @@ export const metadata = {
     },
   },
   icons: {
-    icon: "/assets/img/favicon.png",
-    shortcut: "/assets/img/favicon.png",
-    apple: "/assets/img/favicon.png",
+    icon: "/assets/img/favicon.webp",
+    shortcut: "/assets/img/favicon.webp",
+    apple: "/assets/img/favicon.webp",
   },
 };
 

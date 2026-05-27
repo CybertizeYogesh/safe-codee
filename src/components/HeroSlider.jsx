@@ -8,19 +8,19 @@ export default function HeroSlider() {
 
   const slides = [
     {
-      bg: "/assets/img/hero/hero_bg_2_3.jpg",
+      bg: "/assets/img/hero/hero_bg_2_3.webp",
       titleSpan: "Best Packers and",
       titleText: " Movers in ",
       titleLine: "Bangalore"
     },
     {
-      bg: "/assets/img/hero/hero_bg_2_2.jpg",
+      bg: "/assets/img/hero/hero_bg_2_2.webp",
       titleSpan: "Agarwal Packers and",
       titleText: " Movers ",
       titleLine: "Bangalore"
     },
     {
-      bg: "/assets/img/hero/hero_bg_2_1.jpg",
+      bg: "/assets/img/hero/hero_bg_2_1.webp",
       titleSpan: "Reliable Home",
       titleText: " Moving ",
       titleLine: "Services"
@@ -68,7 +68,7 @@ export default function HeroSlider() {
                   }}
                 >
                   <img
-                    src="/assets/img/hero/hero2-overlay.png"
+                    src="/assets/img/hero/hero2-overlay.webp"
                     alt="Hero overlay"
                     width="1920"
                     height="650"
