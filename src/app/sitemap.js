@@ -1,4 +1,4 @@
-﻿import { locationsList } from "@/data/locations";
+import { locationsList } from "@/data/locations";
 
 export default function sitemap() {
   const baseUrl = "https://www.agarwalontimecargopackers.com";
@@ -11,7 +11,6 @@ export default function sitemap() {
     "/gallery.html",
     "/faq.html",
     "/contact.html",
-    "/payment.html",
     "/house.html",
     "/transport.html",
     "/packing.html",

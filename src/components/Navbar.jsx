@@ -61,7 +61,6 @@ export default function Navbar() {
     { name: "Gallery", path: "/gallery.html" },
     { name: "Faq's", path: "/faq.html" },
     { name: "Contact", path: "/contact.html" },
-    { name: "Payment", path: "/payment.html" },
   ];
 
   return (
@@ -134,12 +133,6 @@ export default function Navbar() {
                     <li className="hmail">
                       <i className="fas fa-envelope"></i>{" "}
                       <a href="mailto:agarwalpackersmoversa@gmail.com">agarwalpackersmoversa@gmail.com</a>
-                    </li>
-                    <li className="gstno">
-                      <b>GSTIN : </b>08BXTPS9821C1ZV
-                    </li>
-                    <li className="panno">
-                      <b>PAN NO : </b>BXTPS9821C
                     </li>
                   </ul>
                 </div>
@@ -218,8 +211,6 @@ export default function Navbar() {
                                 <>
                                   <i className="fa fa-home"></i> Home
                                 </>
-                              ) : link.name === "Payment" ? (
-                                <b>{link.name}</b>
                               ) : (
                                 link.name
                               )}
